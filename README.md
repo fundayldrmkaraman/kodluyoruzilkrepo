@@ -15,7 +15,9 @@ Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 Windows için:
 
 git config --global user.name 
+
 git config --global user.email 
+
 git clone <<git adresi>>
 
 
